@@ -1,0 +1,3 @@
+# simulater_jianshu_header_reducers_split
+将header部分的reduce拆分
+当action过多时，统一交给reducer处理，这样代码数量太多，我将页面部分的reducer拆分开来，这样便于reducer减少代码
